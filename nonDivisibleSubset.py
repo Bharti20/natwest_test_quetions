@@ -30,6 +30,6 @@ def main(s, k):
             max_length = len(subarr)
     return max_length
 
-listOfNum =  [3, 17, 12, 9, 11, 15]
-divisor = 5
+listOfNum =  [19, 10, 12, 10, 24, 25, 22]
+divisor = 4
 print(main(listOfNum, divisor))
