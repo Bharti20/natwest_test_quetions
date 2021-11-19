@@ -8,5 +8,5 @@ def birthdayCakeCandles(listOfCandles):
         index = index + 1
     return count
 
-candles = [4, 4, 1, 3]
+candles = [4,4,1,3]
 print(birthdayCakeCandles(candles))
